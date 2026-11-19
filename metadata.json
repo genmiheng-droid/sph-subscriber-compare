@@ -1,0 +1,6 @@
+{
+  "name": "AppCompare Workbench",
+  "description": "Side-by-side live preview, responsive viewport scaling, HTTP response inspection, and HTML source diff workbench for comparing two web deployments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
