@@ -9,7 +9,7 @@ import { InspectorView } from './components/InspectorView';
 import { HtmlDiffView } from './components/HtmlDiffView';
 
 const DEFAULT_LEFT_URL = 'https://sph-subscriber.vercel.app/';
-const DEFAULT_RIGHT_URL = 'https://sph-subscriber-2-c9yh0hlae-gh-hobby.vercel.app/';
+const DEFAULT_RIGHT_URL = 'https://sph-subscriber-2.vercel.app/';
 
 async function fetchInspection(url: string, bypassSecret: string): Promise<InspectionResult> {
   const params = new URLSearchParams({ url });
